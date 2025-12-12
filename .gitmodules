@@ -1,0 +1,6 @@
+[submodule "jmqf-suma"]
+	path = jmqf-suma
+	url = https://github.com/2025-b-sw-construccion-gr2/jmqf-suma.git
+[submodule "jmqf-resta"]
+	path = jmqf-resta
+	url = https://github.com/2025-b-sw-construccion-gr2/jmqf-resta.git
